@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mélissa — Développeuse web freelance full-stack
 
-<!--
-**Melissaa49/Melissaa49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Stack principale
+- **Frontend** : Vue.js 3, Nuxt 3, Vite.js, React, SCSS, TailwindCSS
+- **Backend** : Node.js + Express, MongoDB, PostgreSQL, Stripe API
+- **Déploiement** : Vercel, Railway, AWS S3, Cloudflare
 
-Here are some ideas to get you started:
+## 💼 Projets récents
+- **RentréeZen** — E-commerce sur-mesure (Vue.js + Node.js)
+- **SaaS en cours** — Plateforme de formation (Nuxt 3 + PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objectifs
+- Développement full-stack orienté UX & SEO
+- Accompagnement client (e-commerce, SaaS, vitrine)
+- Déploiement et suivi technique
+
+## 📫 Contact  
+Disponible pour projets freelance ou missions formatrices  
+📩 [alfonsi.m.01@outlook.com](mailto:alfonsi.m.01@outlook.com)  
+💻 [LinkedIn](https://www.linkedin.com/in/melissa-a-9ba546249/)
