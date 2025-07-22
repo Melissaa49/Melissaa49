@@ -18,3 +18,9 @@
 Disponible pour projets freelance ou missions formatrices  
 📩 [alfonsi.m.01@outlook.com](mailto:alfonsi.m.01@outlook.com)  
 💻 [LinkedIn](https://www.linkedin.com/in/melissa-a-9ba546249/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melissaa49&show_icons=true&theme=radical" alt="Stats GitHub de Mélissa">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissaa49&layout=compact&theme=radical" alt="Top Langages">
+</p>
