@@ -6,8 +6,9 @@
 - **Déploiement** : Vercel, Railway, AWS S3, Cloudflare
 
 ## 💼 Projets récents
-- **RentréeZen** — E-commerce sur-mesure (Vue.js + Node.js)
-- **SaaS en cours** — Plateforme de formation (Nuxt 3 + PostgreSQL)
+- **RentréeZen** — E-commerce sur-mesure : packs scolaires personnalisés(Vue.js + Node.js + Stripe + PostgreSQL)
+- **SaaS en cours** — Plateforme de formation (Nuxt 3 + Node.js + PostgreSQL)
+- **Zeny**— IA éducative qui aide les parents à expliquer les devoirs (Nuxt 3 + OpenAI + Node.js)
 
 ## 🎯 Objectifs
 - Développement full-stack orienté UX & SEO
