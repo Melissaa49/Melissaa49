@@ -1,8 +1,10 @@
 # Mélissa — Développeuse web freelance full-stack
 
 ## 🌟 Stack principale
-- **Frontend** : Vue.js 3, Nuxt 3, Vite.js, React, SCSS, TailwindCSS
-- **Backend** : Node.js + Express, MongoDB, PostgreSQL, Stripe API
+
+- **Langages** : JavaScript (❤️), TypeScript, Python (expérimenté)
+- **Frontend** : Vue.js 3, Nuxt 3, Vite, React Native, SCSS, CSS
+- **Backend** : Node.js + Express, PostgreSQL, MongoDB, Stripe API, Django (testé)
 - **Déploiement** : Vercel, Railway, AWS S3, Cloudflare
 
 ## 💼 Projets récents
