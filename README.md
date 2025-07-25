@@ -15,7 +15,7 @@
 - Déploiement et suivi technique
 
 ## 📫 Contact  
-Disponible pour projets freelance ou missions formatrices  
+Disponible pour projets 
 📩 [alfonsi.m.01@outlook.com](mailto:alfonsi.m.01@outlook.com)  
 💻 [LinkedIn](https://www.linkedin.com/in/melissa-a-9ba546249/)
 
