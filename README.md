@@ -2,7 +2,7 @@
 
 ## 🌟 Stack principale
 
-- **Langages** : JavaScript (❤️), TypeScript, Python (expérimenté)
+- **Langages** : JavaScript, TypeScript, Python (expérimenté)
 - **Frontend** : Vue.js 3, Nuxt 3, Vite, React Native, SCSS, CSS
 - **Backend** : Node.js + Express, PostgreSQL, MongoDB, Stripe API, Django (testé)
 - **Déploiement** : Vercel, Railway, AWS S3, Cloudflare
@@ -23,7 +23,7 @@ Disponible pour projets
 💻 [LinkedIn](https://www.linkedin.com/in/melissa-a-9ba546249/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melissaa49&show_icons=true&theme=radical" alt="Stats GitHub de Mélissa">
+<img src="https://github-readme-stats.vercel.app/api?username=Melissaa49&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats GitHub de Mélissa">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissaa49&layout=compact&theme=radical" alt="Top Langages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissaa49&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top langages">
 </p>
