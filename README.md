@@ -64,10 +64,9 @@ Assistant intelligent pour aider les parents dans l’explication des devoirs.
 
   <!-- Langages -->
   <img 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Melissaa49&layout=compact&theme=radical"
-       alt="Top langages"
-       height="180px"
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissaa49&layout=compact&theme=radical&langs_count=10&hide=css,html"
+/>
+
 
 </p>
 
