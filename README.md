@@ -14,7 +14,8 @@
 - React Native (bases)
 
 ### 🛠️ Backend
-- Node.js (Express)  
+- Node.js (Express)
+-  TypeScript / JavaScript
 - PostgreSQL, MongoDB  
 - Stripe API (paiements, abonnements)  
 - OpenAI API  
@@ -23,7 +24,7 @@
 ### ☁️ DevOps / Cloud
 - Vercel, Railway  
 - AWS S3  
-- Cloudflare  
+- Cloudflare 
 - CI/CD léger • Optimisation SEO
 
 ---
