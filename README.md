@@ -30,7 +30,68 @@
 ---
 
 ## 💼 Projets récents
+## 🧩 Templates & UI Kits
 
+### 🍰 **Template Pâtisserie — One Page**
+**Site vitrine premium, élégant et immersif**
+
+**Stack**
+- Nuxt 3 / Vue 3
+- SCSS moderne
+- EmailJS (formulaire de contact sans backend)
+- Responsive & mobile-first
+
+**Fonctionnalités**
+- Hero visuel avec formes organiques
+- Sections produits / spécialités
+- Présentation artisanale & storytelling
+- Formulaire de contact fonctionnel
+- Performance et SEO optimisés
+
+**Idéal pour**
+- Pâtisseries
+- Boulangeries artisanales
+- Chocolatiers
+- Marques food premium
+
+📌 *Template prêt à l’emploi, personnalisable (branding, couleurs, contenus)*
+
+---
+
+### 👗 **Template E-commerce Fashion — Éditorial**
+**E-commerce moderne à forte identité visuelle**
+
+**Stack**
+- Nuxt 4
+- Vue 3
+- TypeScript
+- SCSS
+- Architecture modulaire
+
+**Fonctionnalités**
+- Design éditorial (lookbook / collections)
+- Pages catégories immersives
+- Mobile-first (UX inspirée luxe & magazine)
+- Structure scalable (panier, checkout, Stripe-ready)
+- Animations douces & transitions propres
+
+**Idéal pour**
+- Marques de vêtements
+- Créateurs indépendants
+- Concepts stores
+- Projets e-commerce premium
+
+📌 *Base e-commerce solide, pensée pour évoluer vers un projet complet*
+
+---
+
+### 🛠️ **Autres templates en préparation**
+- 💅 Site prothésiste ongulaire (luxe & artistique)
+- 💇‍♀️ Site coiffeuse / salon beauté
+- 🥖 Site boulangerie moderne
+- 🧠 Landing pages SaaS (EdTech / IA)
+
+ 
 ### 🎒 **E-commerce sur-mesure**
 (Vue.js + Node.js + PostgreSQL + Stripe)  
 Création d’un système complet : panier, paiement, personnalisation, UX mobile-first.
