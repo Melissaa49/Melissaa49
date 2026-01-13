@@ -72,3 +72,8 @@ E-commerce à forte identité visuelle, inspiré des codes luxe & magazine.
 - Approche **tech + UX + business**
 - Intérêt marqué pour les projets **scalables**, **utiles** et **durables**
 - Développement orienté **qualité, stabilité et cohérence**
+
+- ## 🧠 Stack technique
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_GITHUB&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+
