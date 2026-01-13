@@ -73,7 +73,12 @@ E-commerce à forte identité visuelle, inspiré des codes luxe & magazine.
 - Intérêt marqué pour les projets **scalables**, **utiles** et **durables**
 - Développement orienté **qualité, stabilité et cohérence**
 
-- ## 🧠 Stack technique
+## 🛠️ Technologies
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_GITHUB&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
