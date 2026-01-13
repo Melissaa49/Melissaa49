@@ -83,5 +83,5 @@ E-commerce à forte identité visuelle, inspiré des codes luxe & magazine.
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 
-![Metrics](https://metrics.lecoq.io/Melisaa49_GITHUB)
+![Metrics](https://metrics.lecoq.io/Melisaa49?template=classic&languages=1&lines=1&followup=1&repositories=1)
 
