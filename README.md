@@ -82,3 +82,6 @@ E-commerce à forte identité visuelle, inspiré des codes luxe & magazine.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
+
+![Metrics](https://metrics.lecoq.io/Melisaa49_GITHUB)
+
