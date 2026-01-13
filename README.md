@@ -75,7 +75,7 @@ E-commerce à forte identité visuelle, inspiré des codes luxe & magazine.
 
 ## 🛠️ Technologies
 
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Metrics](https://metrics.lecoq.io/Melisaa49?template=classic&languages=1&languages.limit=6&languages.colors=github&repositories=1&followup=0)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
